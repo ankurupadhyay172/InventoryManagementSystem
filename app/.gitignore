@@ -1,0 +1,37 @@
+# Android specific
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Log files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Keystore files (if any)
+*.jks
+*.keystore
+
+# Misc
+*.class
+*.apk
+*.ap_
+*.dex
+
+# IntelliJ
+*.iws
+/out
+
+# Unit test reports
+/test-results/
+
+# Generated files
+gen/
+bin/
