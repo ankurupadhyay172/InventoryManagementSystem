@@ -35,7 +35,7 @@ I walk through:
 
 You can download and try the app on your Android device:
 
-👉 [**Download APK**](https://github.com/ankurupadhyay172/InventoryManagementSystem/releases)
+👉 [**Download APK**](https://github.com/ankurupadhyay172/InventoryManagementSystem/app-debug.apk)
 
 ---
 
