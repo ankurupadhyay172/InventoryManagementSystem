@@ -35,7 +35,7 @@ I walk through:
 
 You can download and try the app on your Android device:
 
-👉 [**Download APK**]([https://github.com/ankurupadhyay172/InventoryManagementSystem/app-debug.apk](https://github.com/ankurupadhyay172/InventoryManagementSystem/blob/main/app-debug.apk)
+👉 [**Download APK**](./app-debug.apk)
 
 ---
 
@@ -63,7 +63,7 @@ This app is tested using:
 
 Here’s the high-level **Class Diagram** I designed before coding the project:
 
-![Class Diagram](./docs/class_diagram.png)
+![Class Diagram](./InventoryManagementSystem.png)
 
 > You can also find the class diagram in `docs/class_diagram.png` inside this repo.
 
