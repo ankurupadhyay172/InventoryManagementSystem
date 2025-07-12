@@ -20,7 +20,7 @@ This project reflects my ability to:
 
 ## 🎥 Watch the Full LLD + Code Tutorial
 
-📺 **YouTube Video**: [How to Build an Inventory System from Scratch](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_HERE)
+📺 **YouTube Video**: [How to Build an Inventory System from Scratch](https://youtu.be/H9mYUDGQtvc)
 
 I walk through:
 1. Requirement Gathering  
