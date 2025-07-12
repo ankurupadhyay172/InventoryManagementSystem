@@ -1,6 +1,6 @@
 # 📦 Inventory Management System – Android App
 
-A complete Inventory Management System Android application built using **Java**, **MVVM architecture**,  **Dependency Injection**, **JUnit**, and **Mockito**. This app is developed following **Clean Architecture principles**, and it’s designed from the ground up – starting from **requirement gathering to class diagrams to full codebase implementation**.
+A complete Inventory Management System Android application built using **Kotlin**, **Jetpack Compose** , **MVVM architecture**,  **Dependency Injection**, **JUnit**, and **Mockito**. This app is developed following **Clean Architecture principles**, and it’s designed from the ground up – starting from **requirement gathering to class diagrams to full codebase implementation**.
 
 > 🎯 Ideal for warehouse or retail environments to manage stock, orders, and product categories efficiently.
 
@@ -26,7 +26,7 @@ I walk through:
 1. Requirement Gathering  
 2. Class Diagram Design  
 3. Entity and Use Case Modeling  
-4. Android Architecture Setup  
+4. Real world implementation 
 5. Writing Clean and Testable Code  
 
 ---
@@ -36,8 +36,6 @@ I walk through:
 You can download and try the app on your Android device:
 
 👉 [**Download APK**](https://github.com/ankurupadhyay172/InventoryManagementSystem/releases)
-
-> *(APK is safe and built from this open-source code. Uploading to GitHub Releases is recommended.)*
 
 ---
 
@@ -54,7 +52,7 @@ This app is tested using:
 
 ## 🏛️ Architecture Overview
 
-- **MVVM (Model-View-ViewModel)**  
+- **MVVM + Clean Code (Model-View-ViewModel)**  
 - **Hilt DI** for dependency injection  
 - **Repository pattern** with clean use cases  
 - **ViewModel + LiveData** for state management  
