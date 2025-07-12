@@ -63,7 +63,7 @@ This app is tested using:
 
 Here’s the high-level **Class Diagram** I designed before coding the project:
 
-![Class Diagram](./docs/class_diagram.png)
+![Class Diagram](./InventoryManagementSystem.png)
 
 > You can also find the class diagram in `docs/class_diagram.png` inside this repo.
 
